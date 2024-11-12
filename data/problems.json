@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "María compró 3 manzanas a $5 cada una y 2 naranjas a $3 cada una. ¿Cuánto gastó en total?",
+      "options": ["$15", "$21", "$19"],
+      "answer": "$21"
+    },
+    {
+      "id": 2,
+      "question": "Carlos tenía $50. Compró un par de zapatos por $30 y una camisa por $10. ¿Cuánto dinero le queda?",
+      "options": ["$20", "$10", "$5"],
+      "answer": "$10"
+    },
+    {
+      "id": 3,
+      "question": "En una tienda, cada juguete cuesta $8. Si Laura compra 4 juguetes y luego devuelve 1, ¿cuánto paga al final?",
+      "options": ["$24", "$32", "$40"],
+      "answer": "$24"
+    },
+    {
+      "id": 4,
+      "question": "Pedro vendió 6 cajas de fresas a $7 cada una. Luego compró 2 cajas de uvas a $5 cada una. ¿Cuánto dinero le queda?",
+      "options": ["$42", "$34", "$24"],
+      "answer": "$34"
+    },
+    {
+      "id": 5,
+      "question": "Ana tenía 12 galletas. Repartió 3 galletas a cada uno de sus 3 amigos. ¿Cuántas galletas le quedaron?",
+      "options": ["3", "4", "6"],
+      "answer": "3"
+    },
+    {
+      "id": 6,
+      "question": "Un autobús lleva 20 pasajeros. En la siguiente parada suben 5 más y bajan 8. ¿Cuántos pasajeros hay ahora?",
+      "options": ["17", "22", "25"],
+      "answer": "17"
+    },
+    {
+      "id": 7,
+      "question": "Sofía compró 2 libros por $12 cada uno y una revista por $5. ¿Cuánto gastó en total?",
+      "options": ["$29", "$24", "$30"],
+      "answer": "$29"
+    },
+    {
+      "id": 8,
+      "question": "En una granja hay 15 gallinas y 10 patos. Si se venden 5 gallinas, ¿cuántos animales quedan?",
+      "options": ["20", "15", "25"],
+      "answer": "20"
+    },
+    {
+      "id": 9,
+      "question": "Luis tiene 3 cajas con 6 pelotas cada una. Luego regala 5 pelotas. ¿Cuántas pelotas le quedan?",
+      "options": ["18", "13", "11"],
+      "answer": "13"
+    },
+    {
+      "id": 10,
+      "question": "Clara pagó $45 por 3 camisetas. Si cada camiseta costaba lo mismo, ¿cuánto costaba cada una?",
+      "options": ["$15", "$20", "$10"],
+      "answer": "$15"
+    },
+    {
+      "id": 11,
+      "question": "En un supermercado, un paquete de arroz cuesta $6 y un paquete de frijoles $4. Si compras 3 paquetes de arroz y 2 de frijoles, ¿cuánto gastas?",
+      "options": ["$26", "$28", "$30"],
+      "answer": "$26"
+    },
+    {
+      "id": 12,
+      "question": "Un grupo de 8 niños quiere compartir 32 caramelos por igual. ¿Cuántos caramelos le tocarán a cada uno?",
+      "options": ["4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "id": 13,
+      "question": "El cine vende entradas a $7 cada una. Si un grupo de 5 amigos compra entradas, ¿cuánto gastan en total?",
+      "options": ["$30", "$35", "$40"],
+      "answer": "$35"
+    },
+    {
+      "id": 14,
+      "question": "Paula tenía $60. Compró un vestido por $40 y unos zapatos por $15. ¿Cuánto dinero le falta para completar la compra?",
+      "options": ["$5", "$10", "$15"],
+      "answer": "$5"
+    },
+    {
+      "id": 15,
+      "question": "En un parque hay 18 bicicletas y 12 patinetas. Si se alquilan 8 bicicletas, ¿cuántos vehículos quedan?",
+      "options": ["22", "30", "20"],
+      "answer": "22"
+    },
+    {
+      "id": 16,
+      "question": "Un carpintero hizo 5 sillas y 3 mesas. Si cada silla tiene 4 patas y cada mesa 3, ¿cuántas patas hizo en total?",
+      "options": ["20", "29", "32"],
+      "answer": "29"
+    },
+    {
+      "id": 17,
+      "question": "En un colegio, hay 9 filas de 6 estudiantes. Si 3 estudiantes se fueron a casa, ¿cuántos estudiantes quedan?",
+      "options": ["51", "54", "57"],
+      "answer": "51"
+    },
+    {
+      "id": 18,
+      "question": "En una librería, una caja tiene 40 lápices. Si se venden 12 lápices, ¿cuántos lápices quedan?",
+      "options": ["28", "30", "32"],
+      "answer": "28"
+    },
+    {
+      "id": 19,
+      "question": "Una familia tiene 4 carros. Si cada carro consume 10 litros de gasolina y tienen suficiente para llenar 3 carros, ¿cuántos litros necesitan para llenar el cuarto?",
+      "options": ["10", "15", "20"],
+      "answer": "10"
+    },
+    {
+      "id": 20,
+      "question": "Julia compró 6 cajas de galletas. Si cada caja tiene 24 galletas y regala 48, ¿cuántas galletas le quedan?",
+      "options": ["72", "96", "48"],
+      "answer": "96"
+    }
+  ]
+  
